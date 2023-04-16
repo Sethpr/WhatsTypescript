@@ -1,0 +1,19 @@
+{
+  "name": "whatstypescript",
+  "version": "1.0.0",
+  "description": "what is typescript?",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.3",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
